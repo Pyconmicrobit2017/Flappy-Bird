@@ -1,5 +1,4 @@
 # Flappy bird for a micro:bit in python
-# http://blog.withcode.uk/2016/05/flappy-bird-microbit-python-tutorial-for-beginners
 from microbit import *
 import random
 
